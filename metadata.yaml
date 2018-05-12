@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2238
     wikipedia: http://en.wikipedia.org/wiki/Cesare_Cantù
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19039#Margherita-Pusterla--Racconto-storico
 gutenberg_bookshelf: IT Romanzi storici
 gutenberg_issued: '2006-08-14'
 gutenberg_type: Text
